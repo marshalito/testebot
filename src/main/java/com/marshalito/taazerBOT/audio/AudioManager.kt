@@ -1,11 +1,11 @@
-package com.mrpowergamerbr.loritta.audio
+package com.marshalito.taazerBOT.audio
 
 import com.github.benmanes.caffeine.cache.Caffeine
-import com.mrpowergamerbr.loritta.Loritta
-import com.mrpowergamerbr.loritta.commands.CommandContext
-import com.mrpowergamerbr.loritta.userdata.ServerConfig
-import com.mrpowergamerbr.loritta.utils.*
-import com.mrpowergamerbr.loritta.utils.misc.YouTubeUtils
+import com.marshalito.taazerBOT.Loritta
+import com.marshalito.taazerBOT.commands.CommandContext
+import com.marshalito.taazerBOT.userdata.ServerConfig
+import com.marshalito.taazerBOT.utils.*
+import com.marshalito.taazerBOT.utils.misc.YouTubeUtils
 import com.sedmelluq.discord.lavaplayer.player.AudioLoadResultHandler
 import com.sedmelluq.discord.lavaplayer.player.DefaultAudioPlayerManager
 import com.sedmelluq.discord.lavaplayer.source.AudioSourceManagers
