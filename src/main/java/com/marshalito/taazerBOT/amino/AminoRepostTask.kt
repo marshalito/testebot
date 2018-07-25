@@ -1,11 +1,11 @@
 package com.mrpowergamerbr.loritta.amino
 
 import com.mongodb.client.model.Filters
-import com.mrpowergamerbr.loritta.userdata.ServerConfig
-import com.mrpowergamerbr.loritta.utils.Constants
-import com.mrpowergamerbr.loritta.utils.loritta
-import com.mrpowergamerbr.loritta.utils.lorittaShards
-import com.mrpowergamerbr.loritta.utils.substringIfNeeded
+import com.marshalito.taazerBOT.userdata.ServerConfig
+import com.marshalito.taazerBOT.utils.Constants
+import com.marshalito.taazerBOT.utils.loritta
+import com.marshalito.taazerBOT.utils.lorittaShards
+import com.marshalito.taazerBOT.utils.substringIfNeeded
 import kotlinx.coroutines.experimental.CoroutineStart
 import kotlinx.coroutines.experimental.launch
 import kotlinx.coroutines.experimental.runBlocking
