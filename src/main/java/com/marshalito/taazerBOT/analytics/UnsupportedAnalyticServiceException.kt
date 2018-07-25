@@ -1,3 +1,3 @@
-package com.mrpowergamerbr.loritta.analytics
+package com.marshalito.taazerBOT.analytics
 
 class UnsupportedAnalyticServiceException : Exception()
