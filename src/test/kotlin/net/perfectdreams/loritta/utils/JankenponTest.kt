@@ -1,6 +1,6 @@
 package net.perfectdreams.loritta.utils
 
-import com.mrpowergamerbr.loritta.utils.Jankenpon
+import com.marshalito.taazerBOT.utils.Jankenpon
 import org.assertj.core.api.Assertions.assertThat
 import org.junit.jupiter.api.Test
 
