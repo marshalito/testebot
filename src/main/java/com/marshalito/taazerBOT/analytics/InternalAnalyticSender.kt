@@ -1,12 +1,12 @@
-package com.mrpowergamerbr.loritta.analytics
+package com.marshalito.taazerBOT.analytics
 
-import com.mrpowergamerbr.loritta.amino.AminoRepostTask
-import com.mrpowergamerbr.loritta.threads.NewLivestreamThread
-import com.mrpowergamerbr.loritta.threads.NewRssFeedThread
-import com.mrpowergamerbr.loritta.utils.logger
-import com.mrpowergamerbr.loritta.utils.loritta
-import com.mrpowergamerbr.loritta.utils.lorittaShards
-import com.mrpowergamerbr.loritta.youtube.CreateYouTubeWebhooksTask
+import com.marshalito.taazerBOT.amino.AminoRepostTask
+import com.marshalito.taazerBOT.threads.NewLivestreamThread
+import com.marshalito.taazerBOT.threads.NewRssFeedThread
+import com.marshalito.taazerBOT.utils.logger
+import com.marshalito.taazerBOT.utils.loritta
+import com.marshalito.taazerBOT.utils.lorittaShards
+import com.marshalito.taazerBOT.youtube.CreateYouTubeWebhooksTask
 import java.util.concurrent.ThreadPoolExecutor
 
 /**
