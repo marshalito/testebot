@@ -3,10 +3,10 @@ package com.mrpowergamerbr.loritta.analytics
 import com.github.kevinsawicki.http.HttpRequest
 import com.github.salomonbrys.kotson.jsonObject
 import com.google.gson.JsonObject
-import com.mrpowergamerbr.loritta.Loritta
-import com.mrpowergamerbr.loritta.analytics.AnalyticProcessorService.DISCORD_BOTS
-import com.mrpowergamerbr.loritta.analytics.AnalyticProcessorService.DISCORD_BOT_LIST
-import com.mrpowergamerbr.loritta.utils.lorittaShards
+import com.marshalito.taazerBOT.Loritta
+import com.marshalito.taazerBOT.analytics.AnalyticProcessorService.DISCORD_BOTS
+import com.marshalito.taazerBOT.analytics.AnalyticProcessorService.DISCORD_BOT_LIST
+import com.marshalito.taazerBOT.utils.lorittaShards
 import mu.KotlinLogging
 
 object LorittaAnalytics {
