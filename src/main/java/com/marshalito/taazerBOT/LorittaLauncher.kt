@@ -1,4 +1,4 @@
-package com.marshalito.testebot
+package com.marshalito.taazerBOT
 
 import com.google.gson.GsonBuilder
 import com.marshalito.testebot.utils.WebsiteUtils
@@ -9,7 +9,7 @@ import java.io.IOException
 /**
  * Loritta's Launcher
  *
- * @author MrPowerGamerBR
+ * @author mrtaazer
  */
 object LorittaLauncher {
 	// STATIC MAGIC(tm)
