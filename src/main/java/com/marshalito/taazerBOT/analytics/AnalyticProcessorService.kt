@@ -1,4 +1,4 @@
-package com.mrpowergamerbr.loritta.analytics
+package com.marshalito.taazerBOT.analytics
 
 /**
  * All services that processes our bot analytics
