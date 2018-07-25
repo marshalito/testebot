@@ -1,7 +1,7 @@
 package net.perfectdreams.loritta.utils
 
-import com.mrpowergamerbr.loritta.utils.Constants
-import com.mrpowergamerbr.loritta.utils.LoriReply
+import com.marshalito.taazerBOT.utils.Constants
+import com.marshalito.taazerBOT.utils.LoriReply
 import io.mockk.every
 import io.mockk.mockk
 import net.dv8tion.jda.core.entities.User
