@@ -1,4 +1,4 @@
-package com.mrpowergamerbr.loritta.analytics
+package com.marshalito.taazerBOT.analytics
 
 /**
  * Sends analytics to analytic processing websites (also known as: Discord Bots Lists)
